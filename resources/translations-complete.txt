@@ -3138,3 +3138,1063 @@ to appear
 erscheinen
 8
 3
+to consist
+bestehen
+8
+3
+main actor
+hauptdarsteller
+10
+5
+bright
+hell
+6
+1
+to lend
+leihen
+7
+2
+self-confident
+selbstbewusst
+6
+1
+completed
+absolviert,fertiggestellt,vollendet
+9
+4
+device
+gerät
+5
+0
+to die
+sterben
+8
+3
+challenge
+herausforderung
+8
+3
+rounded
+abgerundet
+8
+3
+alltogether
+ingesamt
+8
+3
+oxygen
+sauerstoff
+9
+4
+branch (business)
+filiale
+8
+3
+forseen
+vorgesehene
+9
+4
+soft
+weich
+6
+1
+predecessor
+vorgänger,vorgängerin
+9
+4
+innocent
+unschuldig
+11
+6
+admiration
+bewunderung
+10
+5
+like
+ähnlich,gleich
+10
+5
+fee
+gebühr
+9
+4
+preferably
+möglichst
+10
+5
+invest
+anlegen
+8
+3
+prospority (välstånd)
+wohlstand
+5
+0
+rather,pretty
+eher,ziemlich
+8
+3
+detour (avstickare)
+abstecher
+5
+0
+hardly
+kaum
+7
+2
+celebration
+feier
+12
+7
+fire
+feuer
+5
+0
+sustainability
+nachhaltigkeit
+5
+0
+location
+lage
+7
+2
+to screw (something)
+schrauben
+5
+0
+initiation
+anbahnung
+5
+0
+to fear
+fürchten
+9
+4
+narrow
+eng
+5
+0
+suggestion
+vorschlag
+10
+5
+admit
+zugeben
+9
+4
+forest
+wald
+5
+0
+sufficient
+ausreichen,genug
+5
+0
+different
+verschieden,unterschiedlich
+8
+3
+to avoid
+meiden
+5
+0
+non-cash assets
+sachwerte
+10
+5
+busy,employed,occupied
+beschäftigt
+10
+5
+to confirm
+bestätigen
+8
+3
+boughs (kvistar)
+ästen
+9
+4
+to whiz (att susa)
+sausen
+5
+0
+consists
+besteht
+10
+5
+attributed
+dazugerechnet
+10
+5
+feeding
+fütterung
+7
+2
+to enchant
+verzaubern
+6
+1
+to defend
+verteidigen
+11
+6
+leading
+führend
+5
+0
+adventising
+werbung
+5
+0
+demand,call for
+fordern
+10
+5
+trial (prövning)
+prüfung
+10
+5
+some
+manche,etwas
+11
+6
+pleasant/enjoyable (angenäm)
+angenehm
+5
+0
+except
+außer
+9
+4
+within
+innerhalb
+10
+5
+to rub
+reiben
+6
+1
+plumb (lod)
+lot
+6
+1
+appendix
+anhang
+11
+6
+full of
+voller
+9
+4
+shephard
+hirtenjunge
+5
+0
+prevail
+herrschen
+12
+7
+drive mechanism
+antreibsmechanismus
+6
+1
+summit/tip
+gipfel
+5
+0
+merry
+fröhlich
+13
+8
+chimney (skorsten)
+schorstein
+5
+0
+likely (other than wahrscheinlich)
+wohl
+5
+0
+helpless
+ratlos
+7
+2
+to sweat
+schwitzen
+11
+6
+profit
+gewinn
+7
+2
+to judge/assess
+beurteilen
+5
+0
+accident
+unfall
+13
+8
+some,any
+irgendeinen,irgendeine
+13
+8
+occupied
+besetzt
+11
+6
+detailed (utförlig)
+ausführlich
+5
+0
+award
+auszeichnung
+5
+0
+to bother
+bemühen
+10
+5
+repair
+beheben
+12
+7
+clearly
+deutlich
+12
+7
+passengers
+fahrgäste
+10
+5
+influence
+einfluss
+11
+6
+to employ,be on mind
+beschäftigen
+12
+7
+frequent
+häufig
+11
+6
+blustery (häftig)
+heftig
+13
+8
+courageous,brave
+mutig
+6
+1
+increase
+mehren
+6
+1
+teaching (undervisning)
+unterricht
+9
+4
+to confuse oneself
+verwirren
+7
+2
+lively
+lebendig
+6
+1
+interest (money)
+zinsen
+10
+5
+each
+jeweils
+5
+0
+put in motion
+in gang bringen
+6
+1
+mix-up,disarrangement
+durcheinander
+5
+0
+traverse,cross through
+durchqueren
+6
+1
+candle
+kerzen
+7
+2
+insecure
+unsicher
+10
+5
+overthrown,overturned
+umgestürtzt
+13
+8
+nostalgia
+sehnsucht
+6
+1
+famous
+berühmt,bekannt,berühmd
+13
+8
+achievement
+leistung
+5
+0
+withdrawn
+zurückgezogen
+13
+8
+foreign exchange
+devisen
+6
+1
+one way street
+sackgasse
+5
+0
+to receive
+erhalten,empfangen,bekommen
+14
+9
+to push
+schieben
+10
+5
+goverment
+regierung
+11
+6
+proceed
+vorgehen
+7
+2
+occasion
+anlass
+13
+8
+growth
+wachstum
+12
+7
+take care of,deal with,handle
+erledigen
+12
+7
+to lose
+einbüßen,verlieren
+6
+1
+diffrently
+unterschiedlich
+13
+8
+caring,affectionate
+liebevoll
+12
+7
+application (use)
+anwendung
+12
+7
+education
+erziehung
+15
+10
+respectively
+beziehungsweise
+5
+0
+pollution
+verschmutzung
+6
+1
+support
+unterstützung
+7
+2
+conscience
+gewissen
+12
+7
+impressive
+beeindruckend
+12
+7
+many things come together
+ballung
+5
+0
+swirl/whirl (veva)
+wurbeln
+7
+2
+answering machine
+anrufbeantworter
+12
+7
+close up,shut in
+verschließen
+12
+7
+earned
+verdient
+14
+9
+area
+gebiet,bereich
+5
+0
+experience of life
+lebenserfahrung
+13
+8
+fortress
+festung
+7
+2
+caused
+verursacht
+13
+8
+hurt/harm
+verletzen
+14
+9
+object,topic,subject
+gegenstand
+10
+5
+to store
+horten
+7
+2
+care,nursing
+pflege
+13
+8
+change gear
+schalten
+6
+1
+access
+zugang
+10
+5
+effort
+bemühung
+6
+1
+agreed time
+verabredet zeit
+13
+8
+excercise (moving)
+bewegung
+13
+8
+rotten,bad
+faul
+6
+1
+opposing side
+gegenüberliegenden seite
+13
+8
+noise
+lärm
+13
+8
+apparently,apparent
+anscheinend,offenbar
+6
+1
+uniform (shape)
+einheitlich
+15
+10
+to distinguish
+unterscheiden
+16
+11
+bank/waterfront
+ufer
+5
+0
+challange
+herausforderung
+11
+6
+arrangement,structuring
+gestaltung
+14
+9
+received
+erhielen,empfangen
+15
+10
+presumably (förmodligen)
+vermutlich
+11
+6
+sometime
+irgendwann
+17
+12
+recommeded
+empfohlen
+9
+4
+recently
+von kurzem
+10
+5
+because of
+wegen
+15
+10
+entrepreneur
+unternehmer
+14
+9
+to allow
+gönnen,zulassen,erlauben
+12
+7
+mine (gruva)
+bergbau
+6
+1
+turned
+gedreht
+13
+8
+damage
+schaden
+13
+8
+numerous
+zahlreich
+15
+10
+trained
+geschultes,trainiert
+12
+7
+distractions
+ablenkungen
+14
+9
+stop between train-change
+aufenthalt
+12
+7
+means of transport
+verkehrsmittel
+13
+8
+to spoil
+verwöhnen
+13
+8
+frozen
+gefroren
+8
+3
+to encrypt
+verschlüssen
+6
+1
+consideration
+überlegung
+12
+7
+bounty
+zuschuss
+14
+9
+to steer
+lenken,steuern
+7
+2
+to spread
+verbreiten
+15
+10
+considering
+in anbetracht
+16
+11
+to dalay,to move,to postpone
+verschieben
+16
+11
+deliver
+liefern
+14
+9
+an encounter
+begegnung
+9
+4
+additional
+zusätzlich
+15
+10
+property (estate)
+immobilie
+14
+9
+fondness
+vorliebe
+15
+10
+width
+weite
+8
+3
+used
+eingesetzt,gebraucht
+17
+12
+recognition
+erkennung
+12
+7
+single
+einzeln,einzige,einzig
+13
+8
+opposite
+gegenteil
+16
+11
+shallow/superficial
+oberflächig
+5
+0
+contest/dispute
+bestreiten
+9
+4
+to discourage (oneself)
+beirren
+6
+1
+circulation (blood)
+durchblutung
+15
+10
+asset consultant
+vermögensberater
+11
+6
+early pension
+frührente
+6
+1
+gradually
+allmählich
+15
+10
+complaint
+beschwerde,klage
+15
+10
+fears
+befürchtungen
+16
+11
+waste of time
+zeitverschwendung
+15
+10
+to beat/conquer/overcome
+bezwingen
+9
+4
+to achieve
+erreichen,erzielen
+18
+13
+build bigger
+ausbau
+6
+1
+consultation
+beratung
+11
+6
+rebuilt
+umgebaut
+19
+14
+relaxing
+erholsam
+14
+9
+justified
+gerechtfertigt
+8
+3
+responsibility
+verantwortung
+14
+9
+make fun of
+spotten
+6
+1
+driven
+getrieben
+12
+7
+desperate
+verzweifelt
+17
+12
+tricky
+knifflig
+6
+1
+briefcase
+mappe
+5
+0
+flat (flak)
+flach
+5
+0
+spaking occasions
+sprechanlässe
+18
+13
+to guess
+raten,erraten
+5
+0
+to arrange
+verabreden
+18
+13
+maximize/increase/build up
+steigern
+7
+2
+efficiency
+wirksamkeit
+7
+2
+fun,pleasure,amusement
+vergnügen
+10
+5
+match,correspond
+entsprechen
+20
+15
+however
+dennoch,jedoch,dagegen
+18
+13
+persue,follow
+verfolgen
+16
+11
+endanger/jeopardize
+gefährdeten
+19
+14
+pension provision
+altersvorsorge
+19
+14
+essential/important (väsentligt)
+wesentlich
+8
+3
+neighboring
+benachbart
+17
+12
+playful
+spielerischer
+18
+13
+evil/nasty
+ekelhaft
+7
+2
+toe
+zeh
+5
+0
+ice hole
+eisloch
+10
+5
+scarlet red
+scharlachrot
+5
+0
+picturesque (pittoresk)
+malerisch
+16
+11
+serious,grave,severe
+schwerwiegende,schwerwiegend
+18
+13
+including
+einschließlich,inklusive
+17
+12
+unique
+einzigartig
+18
+13
+to aquire
+erwerben
+18
+13
+use
+verwendung,anwendung
+11
+6
+endure,overcome
+bestehen
+16
+11
+renounce (avstå)
+verzichten
+17
+12
+quivering 
+bebender
+6
+1
+soothing
+beruhigend
+13
+8
+required
+gefordert
+18
+13
+fool/clown/idiot
+trottel
+7
+2
+exquisite
+erlesenen
+21
+16
+simply
+schlichtweg,einfach
+7
+2
+quivering
+bebender
+7
+2
+changed
+verändert,geändert
+18
+13
+cattle
+vieh
+6
+1
+to pant/to gasp
+keuchen
+7
+2
+thoughtfulness
+rücksichtnahme
+22
+17
+modest
+bescheiden
+20
+15
+as well
+ebenso
+20
+15
+relevant
+sachbezogen
+10
+5
+designated
+bezeichnet
+20
+15
+eager
+erpicht
+8
+3
+simple (not einfach)
+schlicht,einfach
+5
+0
+to build new
+aufbauen
+5
+0
+to wag
+wedeln
+8
+3
+to shave
+rasieren
+5
+0
+tuft/clump/bunch
+büschel
+8
+3
+success
+gelingen,erfolg
+8
+3
+to instruct
+beauftragen
+21
+16
+tail
+schweif
+7
+2
+to arise
+entstehen
+18
+13
+to stow away
+verstauen
+8
+3
+extraordinary
+außergewöhnlich
+18
+13
+to stun
+verstöhnen
+9
+4
+to regret
+bedauern
+7
+2
+bouquet
+strauß
+8
+3
+heated
+erhitzt
+7
+2

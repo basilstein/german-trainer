@@ -75,7 +75,7 @@ außerdem
 0
 0
 some,any
-irgendeinen
+irgendeine,irgendeinen 
 0
 0
 again
@@ -523,7 +523,7 @@ tatsächlich
 0
 0
 famous
-berühmt,bekannt
+berühmt,bekannt,berühmd
 0
 0
 to accompany
@@ -547,7 +547,7 @@ unvergesslich
 0
 0
 fun,pleasure,amusement
-vergnügnen
+vergnügen
 0
 0
 to greet,to welcome
@@ -582,8 +582,8 @@ cloudy
 bewölkt
 0
 0
-respectively
-jeweils,beziehungsweise
+each
+jeweils
 0
 0
 thundery
@@ -718,7 +718,7 @@ little
 wenig
 0
 0
-excercise (in a study book ex)
+excercise (moving)
 bewegung
 0
 0
@@ -744,10 +744,6 @@ liebevoll
 0
 successful
 erfolgreich
-0
-0
-good-looking,handsome
-gutaussehender
 0
 0
 discoveries
@@ -1831,7 +1827,7 @@ nächster,nächste,nächstes
 0
 0
 used
-eingesetzt
+eingesetzt,gebraucht
 0
 0
 go
@@ -2110,7 +2106,7 @@ what for,whereto
 wozu
 0
 0
-push
+to push
 schieben
 0
 0
@@ -2215,7 +2211,7 @@ festhalten
 0
 0
 apparently,apparent
-anscheinend
+anscheinend,offenbar
 0
 0
 the same/of the same thing
@@ -2238,8 +2234,8 @@ patient
 geduldig
 0
 0
-decided time
-verabredeten zeit
+agreed time
+verabredet zeit
 0
 0
 fashonable
@@ -2287,7 +2283,7 @@ allerdings
 0
 0
 single
-einzeln,einzige
+einzeln,einzige,einzig
 1
 0
 alltogether
@@ -2331,7 +2327,7 @@ unterschiedlich
 0
 0
 different
-verschieden
+verschieden,unterschiedlich
 0
 0
 various
@@ -2775,7 +2771,7 @@ geboren
 0
 0
 unique
-einzigartige
+einzigartig
 0
 0
 cermony
@@ -2950,7 +2946,7 @@ opposing
 gegnerische
 0
 0
-defend
+to defend
 verteidigen
 0
 0
@@ -2967,7 +2963,7 @@ vorne
 0
 0
 neighboring
-benachbarten
+benachbart
 0
 0
 enemy
@@ -3007,7 +3003,7 @@ verbreiten
 0
 0
 to arise
-entstanden
+entstehen
 0
 0
 both this and that (såväl)
@@ -3115,7 +3111,7 @@ stimmung
 0
 0
 soothing
-beruhigende
+beruhigend
 0
 0
 prevail
@@ -3147,11 +3143,11 @@ geteilt,geteilte
 0
 0
 amazing
-erstaunlichsten
+erstaunlich
 0
 0
 excellent
-hervorragende
+hervorragend,ausgezeichnet
 0
 0
 scene
@@ -3163,7 +3159,7 @@ authentisch
 0
 0
 stunning
-umwerfende
+umwerfende,atemberaubend
 0
 0
 episode
@@ -3187,7 +3183,7 @@ schwach
 0
 0
 lively
-lebendige
+lebendig
 0
 0
 admiration
@@ -3199,7 +3195,7 @@ zeitverschwendung
 0
 0
 to bother
-behühen
+bemühen
 0
 0
 throughly
@@ -3279,7 +3275,7 @@ schwach
 0
 0
 blustery (häftig)
-heftigen
+heftig
 0
 0
 following
@@ -3307,7 +3303,7 @@ sprung
 0
 0
 leading
-führenden
+führend
 0
 0
 to set
@@ -3359,7 +3355,7 @@ irgendwann
 0
 0
 complaint
-beschwerde
+beschwerde,klage
 0
 0
 ground
@@ -3403,7 +3399,7 @@ genehmigungen
 0
 0
 pleasant/enjoyable (angenäm)
-angenehmsten 
+angenehm 
 0
 0
 guy
@@ -3423,7 +3419,7 @@ zugeben
 0
 0
 damage
-schäden
+schaden
 0
 0
 as well
@@ -3438,8 +3434,8 @@ clearly
 deutlich
 0
 0
-converted
-umgebaute
+rebuilt
+umgebaut
 0
 0
 endanger/jeopardize
@@ -3471,7 +3467,7 @@ kaum
 0
 0
 narrow
-enge
+eng
 0
 0
 binding
@@ -3510,11 +3506,11 @@ danger,threat
 gefahr
 0
 0
-contrary
+opposite
 gegenteil
 0
 0
-employ,be on mind
+to employ,be on mind
 beschäftigen
 0
 0
@@ -3567,7 +3563,7 @@ anlass
 0
 0
 some
-manche
+manche,etwas
 0
 0
 promotion,support
@@ -3579,7 +3575,7 @@ beschäftigt
 0
 0
 serious,grave,severe
-schwerwiegende
+schwerwiegende,schwerwiegend
 0
 0
 power,performance
@@ -3686,7 +3682,7 @@ playful
 spielerischer
 0
 0
-distinguish
+to distinguish
 unterscheiden
 0
 0
@@ -3754,8 +3750,8 @@ soft
 weich
 0
 0
-transport
-verkehrsmitteln
+means of transport
+verkehrsmittel
 0
 0
 agile,maneuverable
@@ -3778,7 +3774,7 @@ recovery,relaxation,recreation
 erholung
 0
 0
-application
+application (use)
 anwendung
 0
 0
@@ -3826,7 +3822,7 @@ hold,keep
 halten
 0
 0
-presumably
+presumably (förmodligen)
 vermutlich
 0
 0
@@ -3883,11 +3879,11 @@ anlegen
 0
 0
 insecure
-verunsichert
+unsicher
 0
 0
 sufficient
-ausreichen
+ausreichen,genug
 0
 0
 seniority
@@ -3922,7 +3918,7 @@ consideration
 überlegung
 0
 0
-property
+property (estate)
 immobilie
 0
 0
@@ -3951,7 +3947,7 @@ empfohlen
 0
 0
 detailed (utförlig)
-ausführlichen
+ausführlich
 0
 0
 consultation
@@ -3974,23 +3970,23 @@ recently
 von kurzem
 0
 0
-get confused
-durcheinandergeraten
+to confuse oneself
+verwirren
 0
 0
 reversed
 vertauscht
 0
 0
-enchant
+to enchant
 verzaubern
 0
 0
 picturesque (pittoresk)
-malerische
+malerisch
 0
 0
-encounter
+an encounter
 begegnung
 0
 0
@@ -4003,7 +3999,7 @@ mutig
 0
 0
 ice hole
-einloch
+eisloch
 0
 0
 traverse,cross through
@@ -4023,7 +4019,7 @@ feuer
 0
 0
 important (betydande)
-bedeutendsten
+bedeutende
 0
 0
 driven
@@ -4043,10 +4039,378 @@ fütterung
 0
 0
 frozen
-zugefrorene
+gefroren
 0
 0
 width
 weite
+0
+0
+likely (other than wahrscheinlich)
+wohl
+0
+0
+one way street
+sackgasse
+0
+0
+drive mechanism
+antreibsmechanismus
+0
+0
+put in motion
+in gang bringen
+0
+0
+prospority (välstånd)
+wohlstand
+0
+0
+increase
+mehren
+0
+0
+use
+verwendung,anwendung
+0
+0
+plumb (lod)
+lot
+0
+0
+to screw (something)
+schrauben
+0
+0
+to lose
+einbüßen,verlieren
+0
+0
+swirl/whirl (veva)
+wurbeln
+0
+0
+contest/dispute
+bestreiten
+0
+0
+to store
+horten
+0
+0
+summit/tip
+gipfel
+0
+0
+sustainability
+nachhaltigkeit
+0
+0
+chimney (skorsten)
+schorstein
+0
+0
+initiation
+anbahnung
+0
+0
+foreign exchange
+devisen
+0
+0
+to defend
+verteidigen
+0
+0
+to steer
+lenken,steuern
+0
+0
+to rub
+reiben
+0
+0
+to judge/assess
+beurteilen
+0
+0
+to avoid
+meiden
+0
+0
+respectively
+beziehungsweise
+0
+0
+rotten,bad
+faul
+0
+0
+mix-up,disarrangement
+durcheinander
+0
+0
+change gear
+schalten
+0
+0
+conditions/circumstances
+verhältnisse
+0
+0
+effort
+bemühung
+0
+0
+to beat/conquer/overcome
+bezwingen
+0
+0
+achievement
+leistung
+0
+0
+to encrypt
+verschlüssen
+0
+0
+pollution
+verschmutzung
+0
+0
+many things come together
+ballung
+0
+0
+area
+gebiet,bereich
+0
+0
+award
+auszeichnung
+0
+0
+mine (gruva)
+bergbau
+0
+0
+bank/waterfront
+ufer
+0
+0
+shephard
+hirtenjunge
+0
+0
+relevant
+sachbezogen
+0
+0
+efficiency
+wirksamkeit
+0
+0
+shallow/superficial
+oberflächig
+0
+0
+make fun of
+spotten
+0
+0
+to discourage (oneself)
+beirren
+0
+0
+flat (flak)
+flach
+0
+0
+early pension
+frührente
+0
+0
+justified
+gerechtfertigt
+0
+0
+evil/nasty
+ekelhaft
+0
+0
+maximize/increase/build up
+steigern
+0
+0
+to build new
+aufbauen
+0
+0
+build bigger
+ausbau
+0
+0
+essential/important (väsentligt)
+wesentlich
+0
+0
+various
+vielerlei
+0
+0
+to discuss (not überreden)
+erörtern
+0
+0
+relative(family)
+verwandte
+0
+0
+tricky
+knifflig
+0
+0
+appearance/entrance
+auftritt
+0
+0
+quivering
+bebender
+0
+0
+bouquet
+strauß
+0
+0
+to wag
+wedeln
+0
+0
+accusation
+vorwurf
+0
+0
+mocking
+spötisch
+0
+0
+tuft/clump/bunch
+büschel
+0
+0
+scarlet red
+scharlachrot
+0
+0
+to dig/burrow
+wühlen
+0
+0
+to stow away
+verstauen
+0
+0
+toe
+zeh
+0
+0
+to stun
+verstöhnen
+0
+0
+success
+gelingen,erfolg
+0
+0
+body/flesh
+leib
+0
+0
+plucked
+angepflaumt
+0
+0
+briefcase
+mappe
+0
+0
+to regret
+bedauern
+0
+0
+ferret (iller)
+frettchen
+0
+0
+simply
+schlichtweg,einfach
+0
+0
+simple (not einfach)
+schlicht,einfach
+0
+0
+to lean
+lehnen
+0
+0
+cattle
+vieh
+0
+0
+incite (hetsa)
+anstacheln
+0
+0
+to pant/to gasp
+keuchen
+0
+0
+heated
+erhitzt
+0
+0
+fool/clown/idiot
+trottel
+0
+0
+sting
+stechen
+0
+0
+to guess
+raten,erraten
+0
+0
+quivering 
+bebender
+0
+0
+foolish
+töricht
+0
+0
+gossip
+gespenster
+0
+0
+eager
+erpicht
+0
+0
+gesture
+gebärden
+0
+0
+cross
+quere
+0
+0
+tail
+schweif
+0
+0
+to shave
+rasieren
 0
 0

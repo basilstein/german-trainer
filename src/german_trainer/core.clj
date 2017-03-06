@@ -163,22 +163,24 @@
                  (int time-left)))
       (let [element (some #{(prompt)} translation)
             time-taken (/ (- (System/nanoTime) starttime) 1e9)]
-        (do-translation 
-          (dissoc translations-left word) 
-          (if (some? element) 
-            (do (println "Correct!\n")
-                (assoc 
-                  all-translations 
-                  word 
-                  [translation (inc times-translated) times-failed]))
-            (do (println "WRONG! Should have been: " translation "\n")
-                (assoc 
-                  all-translations 
-                  word 
-                  [translation times-translated (inc times-failed)])))
-          (- time-left time-taken) 
-          (if (some? element) (inc ntranslated) ntranslated)
-          (inc nwords))))))
+        (if (= element ":q")
+          [ntranslated all-translations]
+          (do-translation 
+            (dissoc translations-left word) 
+            (if (some? element) 
+              (do (println "Correct!\n")
+                  (assoc 
+                    all-translations 
+                    word 
+                    [translation (inc times-translated) times-failed]))
+              (do (println "WRONG! Should have been: " translation "\n")
+                  (assoc 
+                    all-translations 
+                    word 
+                    [translation times-translated (inc times-failed)])))
+            (- time-left time-taken) 
+            (if (some? element) (inc ntranslated) ntranslated)
+            (inc nwords)))))))
 
 
 
@@ -214,7 +216,7 @@
   (let [translationmap (file-into-map translations-complete-path)]
     (do-translation translationmap translationmap session-time 0 0)))
 
-(defn repl []
+(defn main []
   (println "\n I am a translation program. I currently know"
            (ntranslations-in-file translations-all-path)
            "english words"
@@ -222,6 +224,9 @@
            "Of those,"
            (ntranslations-in-file translations-tobe-path) 
            "words remains to be translated 5 times"
+           "\nI am done with:" 
+           (ntranslations-in-file translations-complete-path) 
+           "words"
            "\n A training session is" 
            (/ session-time 60) 
            "minute(s) long"
@@ -243,8 +248,8 @@
       (if-let [t (re-matches #"set time [0-9]+" ans)] 
         (def session-time (* 60 (parse-int (last (string/split t #" ")))))
         (println " Unknown input")))
-    (if (= ans "q") :done (repl))))
+    (if (= ans "q") :done (main))))
 
-(defn -main [& args]
-  (repl))
+(defn -main [&args]
+  (main)) 
 
